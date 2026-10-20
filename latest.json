@@ -2,25 +2,25 @@
   "schema_version": 1,
   "project": "mylib-aichat-pc-tool",
   "source": "github",
-  "version": "1.0.0",
-  "package_name": "mylib-aichat-pc-tool-v1.0.0.exe",
+  "version": "1.0.1",
+  "package_name": "mylib-aichat-pc-tool-v1.0.1.exe",
   "package_parts": [
     {
-      "name": "mylib-aichat-pc-tool-v1.0.0.exe.part001",
-      "url": "https://github.com/zsh-0/mylib-aichat_pc_tool/releases/download/mylib-aichat-pc-tool-v1.0.0/mylib-aichat-pc-tool-v1.0.0.exe.part001",
-      "sha256": "85df81fa2e69ab8343d72b02b213dcfca0d31cffe8b73699642707e598c8009e",
+      "name": "mylib-aichat-pc-tool-v1.0.1.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-aichat_pc_tool/releases/download/mylib-aichat-pc-tool-v1.0.1/mylib-aichat-pc-tool-v1.0.1.exe.part001",
+      "sha256": "becbe2baff8446045c124c3ecab18ef5ca566f522108402233d0b332174e9f50",
       "size": 90000000
     },
     {
-      "name": "mylib-aichat-pc-tool-v1.0.0.exe.part002",
-      "url": "https://github.com/zsh-0/mylib-aichat_pc_tool/releases/download/mylib-aichat-pc-tool-v1.0.0/mylib-aichat-pc-tool-v1.0.0.exe.part002",
-      "sha256": "1144f08312426a20c8c6600a42a12106ad25efe57b6a2667eb4f7e16f27f9184",
-      "size": 54788022
+      "name": "mylib-aichat-pc-tool-v1.0.1.exe.part002",
+      "url": "https://github.com/zsh-0/mylib-aichat_pc_tool/releases/download/mylib-aichat-pc-tool-v1.0.1/mylib-aichat-pc-tool-v1.0.1.exe.part002",
+      "sha256": "7c4ab14ed09a92d986914b96eec4d33c41045b4c76aecfb264af32d086ac4531",
+      "size": 54786743
     }
   ],
-  "sha256": "d29115b0231ca3e940c5058ec65507869e677edcddfb0894d8ba12392e64a6a8",
-  "size": 144788022,
-  "notes": "V1.0.0\n1、首版发布",
+  "sha256": "16167b385d9bff6f3147abcecacda07445ca697c26fb48bd2cade2c2c6a22f34",
+  "size": 144786743,
+  "notes": "V1.0.1\n1、支持OTA",
   "mandatory": false,
-  "published_at": "2026-10-20T08:23:32+00:00"
+  "published_at": "2026-10-20T08:28:39+00:00"
 }
